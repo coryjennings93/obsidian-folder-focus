@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "folder-focus-plugin",
+	"name": "Folder Focus Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Navigate your vault one folder at a time with a streamlined, focused view of only the files and subfolders you choose.",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"authorUrl": "https://github.com/coryjennings93/obsidian-folder-focus",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
